@@ -1,6 +1,6 @@
 /build/*
 /dist/*
 /game.spec
-/pyinstaller/*
-/_old/
-/.venv/
+/pyinstaller
+/_old/*
+/.venv/*
